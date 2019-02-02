@@ -1,2 +1,2 @@
-msg="Hello, Pytjon"
+msg="Hello, Python"
 print(msg)
